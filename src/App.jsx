@@ -102,7 +102,7 @@ function App() {
 			<header>
 				<h2>Todo App</h2>
 				<button type="button" onClick={resetTodos}>
-					Reset
+					Clear
 				</button>
 			</header>
 			<main>
